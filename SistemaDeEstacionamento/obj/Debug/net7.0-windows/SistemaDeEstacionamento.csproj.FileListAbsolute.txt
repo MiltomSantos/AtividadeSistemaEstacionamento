@@ -1,0 +1,17 @@
+C:\Users\miltom.snascimento\source\repos\SistemaDeEstacionamento\SistemaDeEstacionamento\bin\Debug\net7.0-windows\SistemaDeEstacionamento.exe
+C:\Users\miltom.snascimento\source\repos\SistemaDeEstacionamento\SistemaDeEstacionamento\bin\Debug\net7.0-windows\SistemaDeEstacionamento.deps.json
+C:\Users\miltom.snascimento\source\repos\SistemaDeEstacionamento\SistemaDeEstacionamento\bin\Debug\net7.0-windows\SistemaDeEstacionamento.runtimeconfig.json
+C:\Users\miltom.snascimento\source\repos\SistemaDeEstacionamento\SistemaDeEstacionamento\bin\Debug\net7.0-windows\SistemaDeEstacionamento.dll
+C:\Users\miltom.snascimento\source\repos\SistemaDeEstacionamento\SistemaDeEstacionamento\bin\Debug\net7.0-windows\SistemaDeEstacionamento.pdb
+C:\Users\miltom.snascimento\source\repos\SistemaDeEstacionamento\SistemaDeEstacionamento\obj\Debug\net7.0-windows\SistemaDeEstacionamento.csproj.AssemblyReference.cache
+C:\Users\miltom.snascimento\source\repos\SistemaDeEstacionamento\SistemaDeEstacionamento\obj\Debug\net7.0-windows\SistemaDeEstacionamento.Form1.resources
+C:\Users\miltom.snascimento\source\repos\SistemaDeEstacionamento\SistemaDeEstacionamento\obj\Debug\net7.0-windows\SistemaDeEstacionamento.csproj.GenerateResource.cache
+C:\Users\miltom.snascimento\source\repos\SistemaDeEstacionamento\SistemaDeEstacionamento\obj\Debug\net7.0-windows\SistemaDeEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miltom.snascimento\source\repos\SistemaDeEstacionamento\SistemaDeEstacionamento\obj\Debug\net7.0-windows\SistemaDeEstacionamento.AssemblyInfoInputs.cache
+C:\Users\miltom.snascimento\source\repos\SistemaDeEstacionamento\SistemaDeEstacionamento\obj\Debug\net7.0-windows\SistemaDeEstacionamento.AssemblyInfo.cs
+C:\Users\miltom.snascimento\source\repos\SistemaDeEstacionamento\SistemaDeEstacionamento\obj\Debug\net7.0-windows\SistemaDeEstacionamento.csproj.CoreCompileInputs.cache
+C:\Users\miltom.snascimento\source\repos\SistemaDeEstacionamento\SistemaDeEstacionamento\obj\Debug\net7.0-windows\SistemaDeEstacionamento.dll
+C:\Users\miltom.snascimento\source\repos\SistemaDeEstacionamento\SistemaDeEstacionamento\obj\Debug\net7.0-windows\refint\SistemaDeEstacionamento.dll
+C:\Users\miltom.snascimento\source\repos\SistemaDeEstacionamento\SistemaDeEstacionamento\obj\Debug\net7.0-windows\SistemaDeEstacionamento.pdb
+C:\Users\miltom.snascimento\source\repos\SistemaDeEstacionamento\SistemaDeEstacionamento\obj\Debug\net7.0-windows\SistemaDeEstacionamento.genruntimeconfig.cache
+C:\Users\miltom.snascimento\source\repos\SistemaDeEstacionamento\SistemaDeEstacionamento\obj\Debug\net7.0-windows\ref\SistemaDeEstacionamento.dll
